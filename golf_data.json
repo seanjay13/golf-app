@@ -1,0 +1,92 @@
+{
+  "settings": {
+    "num_players": 8,
+    "num_teams": 4,
+    "course_name": "",
+    "par": 72,
+    "course_rating": 74.9,
+    "slope": 139
+  },
+  "players": [
+    {
+      "name": "Sean",
+      "handicap_index": 5.0
+    },
+    {
+      "name": "Troy",
+      "handicap_index": 8.0
+    },
+    {
+      "name": "Jason",
+      "handicap_index": 10.0
+    },
+    {
+      "name": "Ryan",
+      "handicap_index": 12.0
+    },
+    {
+      "name": "Ty",
+      "handicap_index": 16.0
+    },
+    {
+      "name": "Brett",
+      "handicap_index": 18.0
+    },
+    {
+      "name": "Steve",
+      "handicap_index": 20.0
+    },
+    {
+      "name": "Uncle Rick",
+      "handicap_index": 14.0
+    },
+    {
+      "name": "Player 9",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 10",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 11",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 12",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 13",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 14",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 15",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 16",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 17",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 18",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 19",
+      "handicap_index": 0.0
+    },
+    {
+      "name": "Player 20",
+      "handicap_index": 0.0
+    }
+  ]
+}
