@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Arrowhead Golf Club",
+    "city": "Wheaton, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.1, "slope": 133},
+      "White": {"par": 72, "rating": 71.2, "slope": 128},
+      "Gold":  {"par": 72, "rating": 69.1, "slope": 121},
+      "Red":   {"par": 72, "rating": 72.0, "slope": 126}
+    }
+  },
+  {
+    "name": "Bartlett Hills Golf Course",
+    "city": "Bartlett, IL",
+    "tees": {
+      "Blue":  {"par": 71, "rating": 70.8, "slope": 123},
+      "White": {"par": 71, "rating": 69.1, "slope": 118},
+      "Gold":  {"par": 71, "rating": 67.2, "slope": 113},
+      "Red":   {"par": 72, "rating": 70.4, "slope": 118}
+    }
+  },
+  {
+    "name": "Big Run Golf Club",
+    "city": "Lockport, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.7, "slope": 130},
+      "White": {"par": 72, "rating": 70.6, "slope": 125},
+      "Gold":  {"par": 72, "rating": 68.2, "slope": 118},
+      "Red":   {"par": 73, "rating": 71.5, "slope": 122}
+    }
+  },
+  {
+    "name": "Bolingbrook Golf Club",
+    "city": "Bolingbrook, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.6, "slope": 141},
+      "White": {"par": 72, "rating": 72.5, "slope": 135},
+      "Gold":  {"par": 72, "rating": 70.2, "slope": 128},
+      "Red":   {"par": 72, "rating": 73.3, "slope": 131}
+    }
+  },
+  {
+    "name": "Bonnie Brook Golf Course",
+    "city": "Waukegan, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.3, "slope": 130},
+      "White": {"par": 72, "rating": 70.4, "slope": 124},
+      "Gold":  {"par": 72, "rating": 68.2, "slope": 117},
+      "Red":   {"par": 73, "rating": 71.1, "slope": 121}
+    }
+  },
+  {
+    "name": "Cantigny Golf",
+    "city": "Wheaton, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.2, "slope": 136},
+      "White": {"par": 72, "rating": 71.5, "slope": 131},
+      "Gold":  {"par": 72, "rating": 68.9, "slope": 124},
+      "Red":   {"par": 72, "rating": 70.9, "slope": 124}
+    }
+  },
+  {
+    "name": "Chalet Hills Golf Club",
+    "city": "Cary, IL",
+    "tees": {
+      "Blue":  {"par": 73, "rating": 73.8, "slope": 140},
+      "White": {"par": 73, "rating": 72.4, "slope": 137},
+      "Gold":  {"par": 73, "rating": 69.6, "slope": 130},
+      "Red":   {"par": 73, "rating": 67.4, "slope": 125}
+    }
+  },
+  {
+    "name": "Cog Hill - Course 1",
+    "city": "Lemont, IL",
+    "tees": {
+      "Blue":  {"par": 71, "rating": 69.2, "slope": 118},
+      "White": {"par": 71, "rating": 67.8, "slope": 113},
+      "Gold":  {"par": 71, "rating": 66.1, "slope": 108},
+      "Red":   {"par": 71, "rating": 69.0, "slope": 113}
+    }
+  },
+  {
+    "name": "Cog Hill - Course 2 (Ravine)",
+    "city": "Lemont, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.0, "slope": 127},
+      "White": {"par": 72, "rating": 70.1, "slope": 121},
+      "Gold":  {"par": 72, "rating": 68.5, "slope": 117},
+      "Red":   {"par": 72, "rating": 70.8, "slope": 119}
+    }
+  },
+  {
+    "name": "Cog Hill - Course 3",
+    "city": "Lemont, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 71.4, "slope": 125},
+      "White": {"par": 72, "rating": 69.8, "slope": 120},
+      "Gold":  {"par": 72, "rating": 67.6, "slope": 113},
+      "Red":   {"par": 72, "rating": 70.1, "slope": 118}
+    }
+  },
+  {
+    "name": "Cog Hill - Course 4 (Dubsdread)",
+    "city": "Lemont, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.7, "slope": 141},
+      "White": {"par": 72, "rating": 72.6, "slope": 136},
+      "Gold":  {"par": 72, "rating": 70.1, "slope": 129},
+      "Red":   {"par": 72, "rating": 74.5, "slope": 134}
+    }
+  },
+  {
+    "name": "Eagle Ridge - General Course",
+    "city": "Galena, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.8, "slope": 131},
+      "White": {"par": 72, "rating": 70.9, "slope": 126},
+      "Gold":  {"par": 72, "rating": 68.6, "slope": 119},
+      "Red":   {"par": 72, "rating": 71.4, "slope": 124}
+    }
+  },
+  {
+    "name": "Eagle Ridge - North Course",
+    "city": "Galena, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.0, "slope": 127},
+      "White": {"par": 72, "rating": 70.1, "slope": 122},
+      "Gold":  {"par": 72, "rating": 67.9, "slope": 115},
+      "Red":   {"par": 72, "rating": 70.3, "slope": 118}
+    }
+  },
+  {
+    "name": "Eagle Ridge - South Course",
+    "city": "Galena, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.4, "slope": 132},
+      "White": {"par": 72, "rating": 71.5, "slope": 127},
+      "Gold":  {"par": 72, "rating": 69.2, "slope": 120},
+      "Red":   {"par": 72, "rating": 72.0, "slope": 125}
+    }
+  },
+  {
+    "name": "Fox Run Golf Links",
+    "city": "Elk Grove Village, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.5, "slope": 130},
+      "White": {"par": 72, "rating": 70.8, "slope": 125},
+      "Gold":  {"par": 72, "rating": 68.6, "slope": 119},
+      "Red":   {"par": 72, "rating": 71.2, "slope": 122}
+    }
+  },
+  {
+    "name": "The Glen Club",
+    "city": "Glenview, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 75.1, "slope": 143},
+      "White": {"par": 72, "rating": 72.6, "slope": 137},
+      "Gold":  {"par": 72, "rating": 71.3, "slope": 134},
+      "Red":   {"par": 72, "rating": 70.1, "slope": 131}
+    }
+  },
+  {
+    "name": "Glenwoodie Golf Club",
+    "city": "Glenwood, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 71.9, "slope": 128},
+      "White": {"par": 72, "rating": 70.2, "slope": 123},
+      "Gold":  {"par": 72, "rating": 67.9, "slope": 116},
+      "Red":   {"par": 72, "rating": 70.6, "slope": 120}
+    }
+  },
+  {
+    "name": "Harborside International - Port Course",
+    "city": "Chicago, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.0, "slope": 130},
+      "White": {"par": 72, "rating": 71.0, "slope": 125},
+      "Gold":  {"par": 72, "rating": 68.7, "slope": 119},
+      "Red":   {"par": 72, "rating": 70.6, "slope": 120}
+    }
+  },
+  {
+    "name": "Harborside International - Starboard Course",
+    "city": "Chicago, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.2, "slope": 131},
+      "White": {"par": 72, "rating": 71.1, "slope": 126},
+      "Gold":  {"par": 72, "rating": 68.8, "slope": 119},
+      "Red":   {"par": 72, "rating": 70.8, "slope": 121}
+    }
+  },
+  {
+    "name": "Highland Park Country Club",
+    "city": "Highland Park, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.5, "slope": 131},
+      "White": {"par": 72, "rating": 70.6, "slope": 126},
+      "Gold":  {"par": 72, "rating": 68.4, "slope": 119},
+      "Red":   {"par": 73, "rating": 72.0, "slope": 124}
+    }
+  },
+  {
+    "name": "Highlands of Elgin",
+    "city": "Elgin, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.7, "slope": 139},
+      "White": {"par": 72, "rating": 71.1, "slope": 133},
+      "Gold":  {"par": 72, "rating": 69.5, "slope": 129},
+      "Red":   {"par": 73, "rating": 72.5, "slope": 128}
+    }
+  },
+  {
+    "name": "Hilldale Golf Club",
+    "city": "Hoffman Estates, IL",
+    "tees": {
+      "Blue":  {"par": 71, "rating": 72.0, "slope": 140},
+      "White": {"par": 71, "rating": 69.8, "slope": 135},
+      "Gold":  {"par": 71, "rating": 67.6, "slope": 130},
+      "Red":   {"par": 71, "rating": 65.9, "slope": 126}
+    }
+  },
+  {
+    "name": "Inverway Golf Club",
+    "city": "Palatine, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 71.8, "slope": 126},
+      "White": {"par": 72, "rating": 70.0, "slope": 121},
+      "Gold":  {"par": 72, "rating": 67.8, "slope": 115},
+      "Red":   {"par": 73, "rating": 71.1, "slope": 120}
+    }
+  },
+  {
+    "name": "Kemper Lakes Golf Club",
+    "city": "Kildeer, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.5, "slope": 138},
+      "White": {"par": 72, "rating": 72.4, "slope": 133},
+      "Gold":  {"par": 72, "rating": 70.0, "slope": 127},
+      "Red":   {"par": 73, "rating": 73.6, "slope": 130}
+    }
+  },
+  {
+    "name": "Links Challenge at Deer Run",
+    "city": "Lockport, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.1, "slope": 129},
+      "White": {"par": 72, "rating": 70.3, "slope": 124},
+      "Gold":  {"par": 72, "rating": 68.0, "slope": 117},
+      "Red":   {"par": 72, "rating": 70.5, "slope": 121}
+    }
+  },
+  {
+    "name": "Makray Memorial Golf Club",
+    "city": "Barrington, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.9, "slope": 132},
+      "White": {"par": 72, "rating": 71.1, "slope": 127},
+      "Gold":  {"par": 72, "rating": 68.9, "slope": 120},
+      "Red":   {"par": 72, "rating": 71.5, "slope": 124}
+    }
+  },
+  {
+    "name": "Mistwood Golf Club",
+    "city": "Romeoville, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.8, "slope": 136},
+      "White": {"par": 72, "rating": 72.1, "slope": 131},
+      "Gold":  {"par": 72, "rating": 69.8, "slope": 124},
+      "Red":   {"par": 72, "rating": 73.4, "slope": 131}
+    }
+  },
+  {
+    "name": "Odyssey Golf Course",
+    "city": "Tinley Park, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.5, "slope": 126},
+      "White": {"par": 72, "rating": 70.7, "slope": 121},
+      "Gold":  {"par": 72, "rating": 68.5, "slope": 115},
+      "Red":   {"par": 73, "rating": 71.3, "slope": 119}
+    }
+  },
+  {
+    "name": "Palatine Hills Golf Course",
+    "city": "Palatine, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.9, "slope": 132},
+      "White": {"par": 72, "rating": 71.6, "slope": 129},
+      "Gold":  {"par": 72, "rating": 68.7, "slope": 122},
+      "Red":   {"par": 73, "rating": 70.8, "slope": 117}
+    }
+  },
+  {
+    "name": "Pine Meadow Golf Club",
+    "city": "Mundelein, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.9, "slope": 140},
+      "White": {"par": 72, "rating": 73.7, "slope": 137},
+      "Gold":  {"par": 72, "rating": 71.6, "slope": 132},
+      "Red":   {"par": 72, "rating": 70.0, "slope": 128}
+    }
+  },
+  {
+    "name": "Prairie Landing Golf Club",
+    "city": "West Chicago, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.3, "slope": 133},
+      "White": {"par": 72, "rating": 71.1, "slope": 128},
+      "Gold":  {"par": 72, "rating": 69.2, "slope": 122},
+      "Red":   {"par": 72, "rating": 71.4, "slope": 123}
+    }
+  },
+  {
+    "name": "Ruffled Feathers Golf Club",
+    "city": "Lemont, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.5, "slope": 137},
+      "White": {"par": 72, "rating": 71.5, "slope": 132},
+      "Gold":  {"par": 72, "rating": 69.3, "slope": 124},
+      "Red":   {"par": 72, "rating": 72.2, "slope": 127}
+    }
+  },
+  {
+    "name": "Schaumburg Golf Club",
+    "city": "Schaumburg, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 72.3, "slope": 128},
+      "White": {"par": 72, "rating": 70.5, "slope": 123},
+      "Gold":  {"par": 72, "rating": 68.4, "slope": 117},
+      "Red":   {"par": 73, "rating": 72.1, "slope": 123}
+    }
+  },
+  {
+    "name": "Seven Bridges Golf Club",
+    "city": "Woodridge, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.2, "slope": 139},
+      "White": {"par": 72, "rating": 71.8, "slope": 133},
+      "Gold":  {"par": 72, "rating": 69.5, "slope": 126},
+      "Red":   {"par": 73, "rating": 73.1, "slope": 130}
+    }
+  },
+  {
+    "name": "St. Andrews Golf & Country Club",
+    "city": "West Chicago, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.5, "slope": 133},
+      "White": {"par": 72, "rating": 71.7, "slope": 128},
+      "Gold":  {"par": 72, "rating": 69.4, "slope": 121},
+      "Red":   {"par": 73, "rating": 72.6, "slope": 127}
+    }
+  },
+  {
+    "name": "Stonebridge Country Club",
+    "city": "Aurora, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 73.8, "slope": 137},
+      "White": {"par": 72, "rating": 71.9, "slope": 132},
+      "Gold":  {"par": 72, "rating": 69.6, "slope": 125},
+      "Red":   {"par": 73, "rating": 73.2, "slope": 131}
+    }
+  },
+  {
+    "name": "Stonewall Orchard Golf Club",
+    "city": "Grayslake, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.1, "slope": 140},
+      "White": {"par": 72, "rating": 72.0, "slope": 136},
+      "Gold":  {"par": 72, "rating": 69.8, "slope": 130},
+      "Red":   {"par": 72, "rating": 66.8, "slope": 126}
+    }
+  },
+  {
+    "name": "Thunderhawk Golf Club",
+    "city": "Beach Park, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.1, "slope": 136},
+      "White": {"par": 72, "rating": 72.0, "slope": 131},
+      "Gold":  {"par": 72, "rating": 69.8, "slope": 123},
+      "Red":   {"par": 72, "rating": 72.8, "slope": 130}
+    }
+  },
+  {
+    "name": "Village Links of Glen Ellyn",
+    "city": "Glen Ellyn, IL",
+    "tees": {
+      "Blue":  {"par": 71, "rating": 71.2, "slope": 128},
+      "White": {"par": 71, "rating": 69.7, "slope": 124},
+      "Gold":  {"par": 71, "rating": 67.8, "slope": 118},
+      "Red":   {"par": 72, "rating": 71.5, "slope": 121}
+    }
+  },
+  {
+    "name": "White Deer Run Golf Club",
+    "city": "Vernon Hills, IL",
+    "tees": {
+      "Blue":  {"par": 72, "rating": 74.5, "slope": 148},
+      "White": {"par": 72, "rating": 72.9, "slope": 144},
+      "Gold":  {"par": 72, "rating": 71.4, "slope": 140},
+      "Red":   {"par": 72, "rating": 69.4, "slope": 135}
+    }
+  }
+]
