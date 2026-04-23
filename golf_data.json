@@ -2,10 +2,10 @@
   "settings": {
     "num_players": 8,
     "num_teams": 4,
-    "course_name": "",
+    "course_name": "Highlands of Elgin",
     "par": 72,
-    "course_rating": 74.9,
-    "slope": 139
+    "course_rating": 71.1,
+    "slope": 133
   },
   "players": [
     {
